@@ -1,0 +1,20 @@
+{
+  "name": "zetta-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World application with zetta frameworkd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zetta",
+    "hello-world"
+  ],
+  "author": "Laszlo Barabas",
+  "license": "ISC",
+  "dependencies": {
+    "zetta": "^0.31.0",
+    "zetta-led-mock-driver": "^0.8.0",
+    "zetta-photocell-mock-driver": "^0.5.0"
+  }
+}
